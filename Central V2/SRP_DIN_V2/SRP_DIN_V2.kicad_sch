@@ -110,6 +110,16 @@
 		)
 		(uuid "fb4d2791-8e23-40a2-844f-d977f7dffb3c")
 	)
+	(text "CHANGE BEEN ADDED IN VER2 BRANCH AND NOT IN MAIN BRANCH"
+		(exclude_from_sim no)
+		(at 127.762 34.036 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "2804db34-01ec-4af0-b90f-7dc403509139")
+	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
 		(at 91.44 184.15 0)
