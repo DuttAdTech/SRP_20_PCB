@@ -3,4 +3,6 @@
 - LORA Module Footprint adjust for Hand Soldering
 - Check SRAM Compatibility - 2 MBit
 - Add Resettable Fuse after SM712 Protection Diode on MB Lines
+- Display connector change in PCB
+- PCB partision layer change (edge cut)
 - 
