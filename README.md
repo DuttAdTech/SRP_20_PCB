@@ -6,3 +6,4 @@
 - Display connector change in PCB
 - PCB partision layer change (edge cut)
 - Capacitor Add in PCB 1.22uf/25v , 2.10uf/50v
+- Make LDO based power supply
