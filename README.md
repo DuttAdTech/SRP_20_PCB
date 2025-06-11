@@ -8,3 +8,5 @@
 - Make LDO based power supply
 - SDA SCL of ADS1115 need to connected properly.
 - Vbat pin of the battery measurement need to connected to the MCU.
+- Add 100uF capacitor(x2) in GSM
+- 
