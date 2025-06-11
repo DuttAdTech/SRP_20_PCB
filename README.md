@@ -6,3 +6,5 @@
 - Display connector change in PCB
 - PCB partision layer change (edge cut)
 - Make LDO based power supply
+- SDA SCL of ADS1115 need to connected properly.
+- Vbat pin of the battery measurement need to connected to the MCU.
