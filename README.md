@@ -10,3 +10,5 @@
 - Vbat pin of the battery measurement need to connected to the MCU.
 - Add 100uF capacitor(x2) in GSM.
 - Logic level shifter footprint should be SC70.
+- Ground of the optocoupler and Trip should be different
+- Voltage for the TFT display should be checked before doing PCB connections.
